@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    color: oklch(69.71% 0.329 342.55 / 1);
+}
